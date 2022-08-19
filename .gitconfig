@@ -1,0 +1,10 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[user]
+	email = szr214@alumni.ku.dk
+	name = Henrietta Holze
+[core]
+	editor = vim
